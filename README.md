@@ -107,6 +107,13 @@ Your app will be live in ~90 seconds!
 - **Google Generative AI** - AI insights and chat
 - **PapaParse** - CSV parsing
 
-## License
+<img width="1585" height="879" alt="Screenshot 2026-04-12 122058" src="https://github.com/user-attachments/assets/f8cff329-894a-410f-b38f-ad90ee3a1fbd" />
+<img width="1572" height="639" alt="Screenshot 2026-04-12 122216" src="https://github.com/user-attachments/assets/a4c82e26-8cc2-4d2b-8cec-a67db51d289b" />
+<img width="1615" height="661" alt="Screenshot 2026-04-12 122228" src="https://github.com/user-attachments/assets/40084398-a773-4ce3-ba5b-c5e691898a42" />
+<img width="1484" height="756" alt="Screenshot 2026-04-12 122238" src="https://github.com/user-attachments/assets/5550d44a-193b-4977-8641-bb223182296f" />
+<img width="1852" height="655" alt="Screenshot 2026-04-12 122247" src="https://github.com/user-attachments/assets/4e2320fa-1880-47a2-bd3f-59589b47dc52" />
+<img width="1510" height="626" alt="Screenshot 2026-04-12 122259" src="https://github.com/user-attachments/assets/6ee48952-362e-48b9-b1fb-8f04561cce55" />
+<img width="1614" height="722" alt="Screenshot 2026-04-12 122309" src="https://github.com/user-attachments/assets/48211a58-dffa-4946-81b8-98f21a00d868" />
+<img width="1560" height="852" alt="Screenshot 2026-04-12 122438" src="https://github.com/user-attachments/assets/0ab9a2c7-7cc9-4b9a-91e7-0d01229e1043" />
 
-MIT
+
