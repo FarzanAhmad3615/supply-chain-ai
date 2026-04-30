@@ -1,0 +1,101 @@
+date,product,sales,inventory,supplier_delay
+2024-01-01,Maggi Noodles Pack,118,106,0
+2024-01-02,Good Day Biscuits,191,133,0
+2024-01-03,Real Fruit Juice,123,79,2
+2024-01-04,Kurkure Masala Munch,54,102,1
+2024-01-05,Coca Cola 750ml,120,12,2
+2024-01-06,Maggi Noodles Pack,194,99,0
+2024-01-07,Clinic Plus Shampoo,150,105,1
+2024-01-08,Kurkure Masala Munch,20,61,2
+2024-01-09,Kurkure Masala Munch,24,137,1
+2024-01-10,Tata Salt 1kg,161,48,2
+2024-01-11,Coca Cola 750ml,122,91,1
+2024-01-12,Britannia Bread,46,113,0
+2024-01-13,Mother Dairy Curd,156,138,0
+2024-01-14,Parle-G Biscuits,34,20,1
+2024-01-15,Fortune Sunflower Oil 1L,109,51,2
+2024-01-16,Mother Dairy Curd,61,108,0
+2024-01-17,Amul Milk 1L,143,16,0
+2024-01-18,Parle-G Biscuits,198,99,0
+2024-01-19,Parle-G Biscuits,82,121,1
+2024-01-20,Surf Excel Detergent,115,69,1
+2024-01-21,Lay's Chips,71,122,2
+2024-01-22,Dettol Handwash,115,11,2
+2024-01-23,Real Fruit Juice,151,138,2
+2024-01-24,Real Fruit Juice,170,57,1
+2024-01-25,Clinic Plus Shampoo,162,149,1
+2024-01-26,Parle-G Biscuits,190,46,2
+2024-01-27,Good Day Biscuits,48,18,2
+2024-01-28,Britannia Bread,55,108,1
+2024-01-29,Aashirvaad Atta 5kg,32,57,2
+2024-01-30,Clinic Plus Shampoo,179,140,0
+2024-01-31,Maggi Noodles Pack,90,63,1
+2024-02-01,Pepsi 500ml,105,129,2
+2024-02-02,Maggi Noodles Pack,47,125,1
+2024-02-03,Colgate Toothpaste,85,84,0
+2024-02-04,Tata Salt 1kg,189,122,1
+2024-02-05,Red Bull Energy Drink,64,113,1
+2024-02-06,Colgate Toothpaste,81,93,1
+2024-02-07,Pepsi 500ml,153,121,1
+2024-02-08,Mother Dairy Curd,47,108,0
+2024-02-09,Good Day Biscuits,47,102,1
+2024-02-10,Real Fruit Juice,127,137,1
+2024-02-11,Maggi Noodles Pack,63,119,2
+2024-02-12,Parle-G Biscuits,103,91,1
+2024-02-13,Coca Cola 750ml,49,63,2
+2024-02-14,Real Fruit Juice,94,77,0
+2024-02-15,Britannia Bread,147,42,0
+2024-02-16,Red Bull Energy Drink,111,30,0
+2024-02-17,Surf Excel Detergent,148,57,0
+2024-02-18,Tata Salt 1kg,140,137,2
+2024-02-19,Colgate Toothpaste,46,145,1
+2024-02-20,Coca Cola 750ml,140,144,0
+2024-02-21,Tata Salt 1kg,135,137,1
+2024-02-22,Mother Dairy Curd,22,42,2
+2024-02-23,Fortune Sunflower Oil 1L,122,124,2
+2024-02-24,Lay's Chips,174,128,2
+2024-02-25,Tata Salt 1kg,156,31,0
+2024-02-26,Colgate Toothpaste,81,47,1
+2024-02-27,Parle-G Biscuits,184,118,1
+2024-02-28,Mother Dairy Curd,70,60,1
+2024-02-29,Lay's Chips,191,17,2
+2024-03-01,Tata Salt 1kg,171,36,0
+2024-03-02,Red Bull Energy Drink,78,36,2
+2024-03-03,Dettol Handwash,137,30,2
+2024-03-04,Real Fruit Juice,179,39,1
+2024-03-05,Coca Cola 750ml,115,106,2
+2024-03-06,Red Bull Energy Drink,199,37,1
+2024-03-07,Coca Cola 750ml,132,120,0
+2024-03-08,Dettol Handwash,81,70,1
+2024-03-09,Cadbury Dairy Milk,71,57,0
+2024-03-10,Colgate Toothpaste,31,13,1
+2024-03-11,Real Fruit Juice,58,44,2
+2024-03-12,Cadbury Dairy Milk,149,58,2
+2024-03-13,Pepsi 500ml,150,26,0
+2024-03-14,Real Fruit Juice,132,55,0
+2024-03-15,Cadbury Dairy Milk,120,126,0
+2024-03-16,Amul Milk 1L,132,15,1
+2024-03-17,Maggi Noodles Pack,100,108,1
+2024-03-18,Pepsi 500ml,132,133,0
+2024-03-19,Amul Milk 1L,21,46,2
+2024-03-20,Parle-G Biscuits,149,33,1
+2024-03-21,Coca Cola 750ml,73,102,1
+2024-03-22,Kurkure Masala Munch,106,55,1
+2024-03-23,Clinic Plus Shampoo,148,104,0
+2024-03-24,Surf Excel Detergent,166,108,0
+2024-03-25,Coca Cola 750ml,145,125,0
+2024-03-26,Britannia Bread,149,76,0
+2024-03-27,Britannia Bread,72,137,0
+2024-03-28,Amul Milk 1L,191,27,2
+2024-03-29,Aashirvaad Atta 5kg,179,34,2
+2024-03-30,Lay's Chips,179,63,0
+2024-03-31,Maggi Noodles Pack,87,67,1
+2024-04-01,Pepsi 500ml,142,76,0
+2024-04-02,Maggi Noodles Pack,164,113,2
+2024-04-03,Pepsi 500ml,57,33,2
+2024-04-04,Coca Cola 750ml,43,123,1
+2024-04-05,Parle-G Biscuits,88,41,2
+2024-04-06,Mother Dairy Curd,135,95,0
+2024-04-07,Amul Milk 1L,117,136,1
+2024-04-08,Dettol Handwash,158,139,0
+2024-04-09,Aashirvaad Atta 5kg,163,26,0
